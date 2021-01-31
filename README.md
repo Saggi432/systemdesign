@@ -1,4 +1,4 @@
-# systemdesign
+# system design concepts
 
 ## What Is the Difference between Sharding and Partitioning?
 
